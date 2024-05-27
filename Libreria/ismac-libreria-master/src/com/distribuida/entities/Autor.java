@@ -11,7 +11,7 @@ public class Autor {
 	private String direccion;
 	private String telefono;
 	private String correo;
-	private String correo3;
+	
 	
 	
 	
