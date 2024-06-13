@@ -2,6 +2,11 @@ package com.distribuida.entities;
 
 import java.sql.Date;
 
+import org.springframework.stereotype.Component;
+
+import org.springframework.stereotype.Component;
+
+@Component
 public class Factura {
 
 	private int idFactura;
@@ -26,7 +31,7 @@ public class Factura {
 		this.total = total;
 		//hola
 	}
-
+//Buenas tardes señor capibara
 	public int getIdFactura() {
 		return idFactura;
 	}
